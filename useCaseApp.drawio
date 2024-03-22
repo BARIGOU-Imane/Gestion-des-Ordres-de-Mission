@@ -1,9 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T14:44:23.549Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.7" etag="bhClak3qyiTnti7pefqa" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-22T15:08:53.702Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Ndao4v3qDo5iLkDtXQIP" version="24.0.7" type="github">
   <diagram name="Page-1" id="bqoknefWxygjBXmzC5J1">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="628" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aXAPJrn92n8_OqXVa3Bo-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aXAPJrn92n8_OqXVa3Bo-2" target="aXAPJrn92n8_OqXVa3Bo-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-227" y="117" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aXAPJrn92n8_OqXVa3Bo-3" value="Collaborateur&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="735" y="121" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aXAPJrn92n8_OqXVa3Bo-4" value="Valider un compte utilisateur" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-108" y="92" width="145" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="aXAPJrn92n8_OqXVa3Bo-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aXAPJrn92n8_OqXVa3Bo-2" target="aXAPJrn92n8_OqXVa3Bo-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-114.4921875" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-227" y="260" />
+              <mxPoint x="-227" y="187" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aXAPJrn92n8_OqXVa3Bo-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aXAPJrn92n8_OqXVa3Bo-2" target="aXAPJrn92n8_OqXVa3Bo-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-109" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aXAPJrn92n8_OqXVa3Bo-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aXAPJrn92n8_OqXVa3Bo-2" target="aXAPJrn92n8_OqXVa3Bo-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-227" y="350" />
+              <mxPoint x="-157" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object label="Admin&lt;div&gt;&lt;br&gt;&lt;/div&gt;" Admin="" id="aXAPJrn92n8_OqXVa3Bo-2">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;direction=east;rotation=0;" vertex="1" parent="1">
+            <mxGeometry x="-242" y="254" width="30" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="aXAPJrn92n8_OqXVa3Bo-8" value="Superviseur&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="796" y="388" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aXAPJrn92n8_OqXVa3Bo-14" value="Ajouter / Modifier / Supprimer une ordre de mission&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-105" y="161" width="145" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="aXAPJrn92n8_OqXVa3Bo-16" value="&lt;div&gt;Consulter les OMs des salariés&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-102" y="234" width="145" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="aXAPJrn92n8_OqXVa3Bo-20" value="Calculer les Frais de Mission" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-102" y="324" width="145" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="aXAPJrn92n8_OqXVa3Bo-22" value="Supprimer une ordre de mission&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-98" y="403" width="145" height="51" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
