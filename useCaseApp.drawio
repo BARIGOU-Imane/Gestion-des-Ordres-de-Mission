@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T15:08:53.702Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Ndao4v3qDo5iLkDtXQIP" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-22T15:17:42.390Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="LxpuLpg6SONoYbf7ly5_" version="24.0.7" type="github">
   <diagram name="Page-1" id="bqoknefWxygjBXmzC5J1">
     <mxGraphModel dx="1434" dy="628" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,8 +11,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="aXAPJrn92n8_OqXVa3Bo-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aXAPJrn92n8_OqXVa3Bo-3" target="aXAPJrn92n8_OqXVa3Bo-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="299.5078125" y="116" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aXAPJrn92n8_OqXVa3Bo-3" value="Collaborateur&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="735" y="121" width="30" height="60" as="geometry" />
+          <mxGeometry x="405" y="96" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aXAPJrn92n8_OqXVa3Bo-4" value="Valider un compte utilisateur" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-108" y="92" width="145" height="51" as="geometry" />
@@ -56,8 +61,23 @@
         <mxCell id="aXAPJrn92n8_OqXVa3Bo-20" value="Calculer les Frais de Mission" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-102" y="324" width="145" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="aXAPJrn92n8_OqXVa3Bo-22" value="Supprimer une ordre de mission&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-98" y="403" width="145" height="51" as="geometry" />
+        <mxCell id="aXAPJrn92n8_OqXVa3Bo-25" value="&amp;lt;&amp;lt;Extends&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.403;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aXAPJrn92n8_OqXVa3Bo-27" target="aXAPJrn92n8_OqXVa3Bo-16">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="160" y="262" as="sourcePoint" />
+            <mxPoint x="373" y="279" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aXAPJrn92n8_OqXVa3Bo-27" value="Imprimer l&#39;OM" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="168" y="249" width="100" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="aXAPJrn92n8_OqXVa3Bo-29" value="Créer son espace de travail" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="168" y="90" width="145" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="aXAPJrn92n8_OqXVa3Bo-31" value="&amp;lt;&amp;lt;Include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aXAPJrn92n8_OqXVa3Bo-29">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="167" y="117" as="sourcePoint" />
+            <mxPoint x="33" y="114" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
