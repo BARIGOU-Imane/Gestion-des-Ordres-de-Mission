@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T11:12:40.359Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="OhudNN-isBz5-3m4YwcY" version="24.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-25T11:23:19.266Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="0vKu2M1oyUgkfTuADDuH" version="24.0.8" type="github">
   <diagram name="Page-1" id="bqoknefWxygjBXmzC5J1">
-    <mxGraphModel dx="1071" dy="1079" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1071" dy="1043" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aXAPJrn92n8_OqXVa3Bo-3" value="Collaborateur&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="493" y="-60" width="30" height="60" as="geometry" />
+          <mxGeometry x="553" y="-56" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aXAPJrn92n8_OqXVa3Bo-4" value="Valider un compte utilisateur" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-156" y="-60.5" width="145" height="51" as="geometry" />
@@ -54,7 +54,7 @@
         <mxCell id="aXAPJrn92n8_OqXVa3Bo-34" value="Créer les OMs des techniciens et ingénieurs&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="355" y="442" width="145" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="aXAPJrn92n8_OqXVa3Bo-40" value="Valider l&#39;OM" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="aXAPJrn92n8_OqXVa3Bo-40" value="Valider l&#39;OM&amp;nbsp;&lt;div&gt;des T/I&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="155" y="400" width="100" height="36" as="geometry" />
         </mxCell>
         <mxCell id="aXAPJrn92n8_OqXVa3Bo-41" value="&amp;lt;&amp;lt;Extends&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="aXAPJrn92n8_OqXVa3Bo-40" target="aXAPJrn92n8_OqXVa3Bo-16" edge="1">
@@ -171,7 +171,7 @@
             <mxPoint x="502" y="47" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_NfF5JWYKRUsFBAhB294-12" value="Valider l&#39;ordre de&lt;div&gt;&amp;nbsp;mission&amp;nbsp;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="_NfF5JWYKRUsFBAhB294-12" value="Valider les OMs&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;du&amp;nbsp;&lt;/strong&gt;&lt;div&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;dép&amp;nbsp;&lt;/strong&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;administratif&lt;/strong&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-156" y="334" width="145" height="51" as="geometry" />
         </mxCell>
         <mxCell id="_NfF5JWYKRUsFBAhB294-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aXAPJrn92n8_OqXVa3Bo-2" target="_NfF5JWYKRUsFBAhB294-12">
@@ -216,7 +216,7 @@
         <mxCell id="_NfF5JWYKRUsFBAhB294-26" value="&lt;div&gt;OM&amp;nbsp;&lt;strong style=&quot;background-color: initial;&quot;&gt;du dép Tech/Ing&lt;/strong&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-189" y="255.5" width="100" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="_NfF5JWYKRUsFBAhB294-27" value="&lt;div&gt;OM&amp;nbsp;&lt;strong style=&quot;background-color: initial;&quot;&gt;du dép&amp;nbsp;&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;administratif&lt;/strong&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="_NfF5JWYKRUsFBAhB294-27" value="&lt;div&gt;OM&amp;nbsp;&lt;strong style=&quot;background-color: initial;&quot;&gt;du dép&amp;nbsp;&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;administratif&lt;/strong&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-57" y="256.5" width="100" height="41" as="geometry" />
         </mxCell>
         <mxCell id="_NfF5JWYKRUsFBAhB294-28" value="&amp;lt;&amp;lt;Extends&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.979;entryY=0.673;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_NfF5JWYKRUsFBAhB294-29" target="_NfF5JWYKRUsFBAhB294-16">
