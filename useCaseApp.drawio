@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T11:08:34.074Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="AUYp8wDv7DC2CiJ8ayrH" version="24.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-25T11:09:52.252Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="lVBj874oqMFp3PN0jF06" version="24.0.8" type="github">
   <diagram name="Page-1" id="bqoknefWxygjBXmzC5J1">
     <mxGraphModel dx="1071" dy="1079" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -255,7 +255,7 @@
             <mxPoint x="503" y="-30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_NfF5JWYKRUsFBAhB294-36" value="Consulter ses Bon&amp;nbsp;&lt;div&gt;de Caisse&amp;nbsp;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="_NfF5JWYKRUsFBAhB294-36" value="Consulter ses Bons&amp;nbsp;&lt;div&gt;de Caisse&amp;nbsp;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="215" y="122" width="145" height="51" as="geometry" />
         </mxCell>
         <mxCell id="_NfF5JWYKRUsFBAhB294-37" value="" style="endArrow=none;html=1;rounded=0;exitX=0.97;exitY=0.222;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_NfF5JWYKRUsFBAhB294-36" target="aXAPJrn92n8_OqXVa3Bo-3">
