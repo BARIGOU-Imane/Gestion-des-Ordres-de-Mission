@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T11:14:49.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="wlrhHMwQjEwnXYWvb-RD" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-26T11:15:30.801Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="BurFOKLQqXiejxEL3Y4J" version="24.1.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1184" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -57,7 +57,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n-zNSpfsTMb-PeeRXI1q-16" value="&lt;b&gt;Authentifier&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="n-zNSpfsTMb-PeeRXI1q-18">
-          <mxGeometry x="669.9953283302065" y="137.5864085365854" width="90" height="30" as="geometry" />
+          <mxGeometry x="669.9953283302065" y="207.5864085365854" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="n-zNSpfsTMb-PeeRXI1q-18" vertex="1">
           <mxGeometry x="750" y="20" width="10" height="320" as="geometry" />
@@ -72,7 +72,7 @@
           <mxGeometry x="299.9972318720706" y="12.803121951219515" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n-zNSpfsTMb-PeeRXI1q-15" value="&lt;b&gt;ref&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=49;height=20;" vertex="1" parent="n-zNSpfsTMb-PeeRXI1q-18">
-          <mxGeometry x="625" y="109" width="205" height="281" as="geometry" />
+          <mxGeometry x="625" y="109" width="205" height="241" as="geometry" />
         </mxCell>
         <mxCell id="n-zNSpfsTMb-PeeRXI1q-19" value="Bc:Bon de Caisse" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};gradientColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="260" y="41" width="100" height="480" as="geometry" />
