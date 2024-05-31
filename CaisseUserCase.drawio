@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T08:07:05.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="Vod59Yzbd-eeW9mr5z3G" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-31T08:18:31.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="6k64VZ7FW79SD5NyrIaz" version="24.4.10" type="github">
   <diagram name="Page-1" id="mRjujeoFPQJPFMmHP9zn">
     <mxGraphModel dx="2213" dy="1962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Xe_IdES3nSUy4HADd0t6-47" value="&lt;u&gt;Diagramme de gestion de bon de caisse&lt;/u&gt;" style="swimlane;fontStyle=1;align=center;horizontal=1;startSize=30;collapsible=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-510" y="-160" width="980" height="499" as="geometry" />
+          <mxGeometry x="-540" y="-170" width="960" height="499" as="geometry" />
         </mxCell>
         <mxCell id="Xe_IdES3nSUy4HADd0t6-48" value="&lt;i&gt;&lt;font style=&quot;font-size: 8.5px;&quot;&gt;&lt;b style=&quot;&quot;&gt;u:Use Case model&lt;/b&gt;&lt;/font&gt;&lt;/i&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=80;align=left;" parent="Xe_IdES3nSUy4HADd0t6-47" vertex="1">
-          <mxGeometry width="810" height="430" relative="1" as="geometry">
+          <mxGeometry width="830" height="430" relative="1" as="geometry">
             <mxPoint x="53" y="31" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -65,22 +65,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NV0Lo-mMTgGw6TC_3U0H-1" value="&lt;div&gt;Consulter la liste&lt;/div&gt;&lt;div&gt;&amp;nbsp;de ses bons de caisse&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#3399FF;gradientColor=#CCE5FF;" vertex="1" parent="Xe_IdES3nSUy4HADd0t6-48">
-          <mxGeometry x="605" y="119" width="145" height="51" as="geometry" />
+          <mxGeometry x="594" y="129" width="145" height="51" as="geometry" />
         </mxCell>
         <mxCell id="NV0Lo-mMTgGw6TC_3U0H-2" value="&lt;div&gt;Consulter la liste&lt;/div&gt;&lt;div&gt;&amp;nbsp;des bons de caisse de son département&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#3399FF;gradientColor=#CCE5FF;" vertex="1" parent="Xe_IdES3nSUy4HADd0t6-48">
           <mxGeometry x="583" y="293.5" width="167" height="56.5" as="geometry" />
         </mxCell>
         <mxCell id="NV0Lo-mMTgGw6TC_3U0H-5" value="Notifier&lt;div&gt;les utilisateurs concernés&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#3399FF;gradientColor=#CCE5FF;" vertex="1" parent="Xe_IdES3nSUy4HADd0t6-48">
-          <mxGeometry x="417" y="78" width="145" height="51" as="geometry" />
+          <mxGeometry x="417" y="79" width="145" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="NV0Lo-mMTgGw6TC_3U0H-7" value="&lt;i&gt;&amp;lt;&amp;lt;Includes&amp;gt;&amp;gt;&lt;/i&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.703;exitY=0.039;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Xe_IdES3nSUy4HADd0t6-48" source="Xe_IdES3nSUy4HADd0t6-54" target="NV0Lo-mMTgGw6TC_3U0H-5">
+        <mxCell id="NV0Lo-mMTgGw6TC_3U0H-7" value="&lt;i&gt;&amp;lt;&amp;lt;Includes&amp;gt;&amp;gt;&lt;/i&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.69;exitY=0.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Xe_IdES3nSUy4HADd0t6-48" source="Xe_IdES3nSUy4HADd0t6-54" target="NV0Lo-mMTgGw6TC_3U0H-5">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="227" y="90" as="sourcePoint" />
             <mxPoint x="393" y="119" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="237" y="120" />
-              <mxPoint x="237" y="105" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <object label="&lt;b&gt;Administrateur&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" Admin="" id="Xe_IdES3nSUy4HADd0t6-59">
@@ -114,7 +110,7 @@
         </mxCell>
         <object label="&lt;div&gt;&lt;b&gt;Superviseur&lt;/b&gt;&lt;/div&gt;" Admin="" id="NV0Lo-mMTgGw6TC_3U0H-3">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;direction=east;rotation=0;fillColor=#0000FF;strokeColor=#0000FF;" vertex="1" parent="Xe_IdES3nSUy4HADd0t6-47">
-            <mxGeometry x="920" y="322.75" width="30" height="60" as="geometry" />
+            <mxGeometry x="910" y="323" width="30" height="60" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="NV0Lo-mMTgGw6TC_3U0H-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Xe_IdES3nSUy4HADd0t6-47" source="NV0Lo-mMTgGw6TC_3U0H-2" target="NV0Lo-mMTgGw6TC_3U0H-3">
@@ -124,14 +120,14 @@
           </mxGeometry>
         </mxCell>
         <object label="&lt;div&gt;&lt;b&gt;Collaborateur&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" Admin="" id="Xe_IdES3nSUy4HADd0t6-67">
-          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;direction=east;rotation=0;fillColor=#0000FF;strokeColor=#0000FF;" parent="1" vertex="1">
-            <mxGeometry x="390" y="-14.5" width="30" height="60" as="geometry" />
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;direction=east;rotation=0;fillColor=#0000FF;strokeColor=#0000FF;" parent="Xe_IdES3nSUy4HADd0t6-47" vertex="1">
+            <mxGeometry x="907" y="155.5" width="30" height="60" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="Xe_IdES3nSUy4HADd0t6-68" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="NV0Lo-mMTgGw6TC_3U0H-1" target="Xe_IdES3nSUy4HADd0t6-67" edge="1">
+        <mxCell id="Xe_IdES3nSUy4HADd0t6-68" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="Xe_IdES3nSUy4HADd0t6-47" source="NV0Lo-mMTgGw6TC_3U0H-1" target="Xe_IdES3nSUy4HADd0t6-67" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="295" y="15.5" as="sourcePoint" />
-            <mxPoint x="275" y="-31" as="targetPoint" />
+            <mxPoint x="835" y="185.5" as="sourcePoint" />
+            <mxPoint x="815" y="139" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
