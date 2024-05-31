@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T15:51:31.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="FJsfHc8RcTDFy_cdF3Cc" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-31T08:32:03.667Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="GhLXnhTItvxF5miFjaTz" version="24.4.8" type="github">
   <diagram name="Page-1" id="bqoknefWxygjBXmzC5J1">
-    <mxGraphModel dx="2302" dy="1189" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2186" dy="1193" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,15 +44,6 @@
             <mxPoint x="167" y="117" as="sourcePoint" />
             <mxPoint x="33" y="114" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="aXAPJrn92n8_OqXVa3Bo-32" value="Créer les OMs du dép technique et ingénierie&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#3399FF;gradientColor=#CCE5FF;" parent="1" vertex="1">
-          <mxGeometry x="359" y="445" width="145" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="aXAPJrn92n8_OqXVa3Bo-33" value="&lt;div&gt;Consulter / modifier&lt;/div&gt;&lt;div&gt;&amp;nbsp;les OMs des T/I&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#3399FF;gradientColor=#CCE5FF;" parent="1" vertex="1">
-          <mxGeometry x="399" y="381" width="145" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="aXAPJrn92n8_OqXVa3Bo-34" value="Créer les OMs des techniciens et ingénieurs&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#3399FF;gradientColor=#CCE5FF;" parent="1" vertex="1">
-          <mxGeometry x="471" y="323" width="145" height="51" as="geometry" />
         </mxCell>
         <mxCell id="aXAPJrn92n8_OqXVa3Bo-40" value="Valider l&#39;OM&amp;nbsp;&lt;div&gt;des T/I&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#3399FF;gradientColor=#CCE5FF;" parent="1" vertex="1">
           <mxGeometry x="48" y="513" width="100" height="36" as="geometry" />
@@ -100,12 +91,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="299" y="206" as="sourcePoint" />
             <mxPoint x="406" y="122" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ost5-0_Wd72OpRgAMmyx-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aXAPJrn92n8_OqXVa3Bo-32" target="aXAPJrn92n8_OqXVa3Bo-8" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="395" as="sourcePoint" />
-            <mxPoint x="617" y="313" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ost5-0_Wd72OpRgAMmyx-10" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aXAPJrn92n8_OqXVa3Bo-42" target="aXAPJrn92n8_OqXVa3Bo-8" edge="1">
@@ -309,12 +294,6 @@
             <mxPoint x="45" y="571" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_NfF5JWYKRUsFBAhB294-49" value="&amp;lt;&amp;lt;Includes&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.053;exitY=0.183;exitDx=0;exitDy=0;entryX=0.775;entryY=0.935;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="aXAPJrn92n8_OqXVa3Bo-32" target="_NfF5JWYKRUsFBAhB294-39" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="371" y="463" as="sourcePoint" />
-            <mxPoint x="230" y="311" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_NfF5JWYKRUsFBAhB294-50" value="&amp;lt;&amp;lt;Includes&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.053;exitY=0.327;exitDx=0;exitDy=0;entryX=0.683;entryY=0.941;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="aXAPJrn92n8_OqXVa3Bo-42" target="_NfF5JWYKRUsFBAhB294-39" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="343" y="464" as="sourcePoint" />
@@ -364,6 +343,12 @@
           <mxGeometry width="1103" height="751" relative="1" as="geometry">
             <mxPoint x="52" y="31" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aXAPJrn92n8_OqXVa3Bo-33" value="&lt;div&gt;Consulter / modifier&lt;/div&gt;&lt;div&gt;&amp;nbsp;les OMs des T/I&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#3399FF;gradientColor=#CCE5FF;" parent="_NfF5JWYKRUsFBAhB294-64" vertex="1">
+          <mxGeometry x="827" y="562" width="145" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="aXAPJrn92n8_OqXVa3Bo-34" value="&lt;div&gt;Créer les OMs du&amp;nbsp;&lt;/div&gt;&lt;div&gt;dép technique et ingénierie&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#3399FF;gradientColor=#CCE5FF;" parent="_NfF5JWYKRUsFBAhB294-64" vertex="1">
+          <mxGeometry x="903" y="471" width="156" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
