@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T16:27:45.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="0Q1Z1KqIMtZqr7EjnJ8M" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-31T09:15:57.180Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="WIunCt8fTBERAmRz2Mxd" version="24.4.10" type="github">
   <diagram name="Page-1" id="1X_ssLYPJuPRNMFUVIla">
     <mxGraphModel dx="2213" dy="1962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,7 +15,7 @@
         <mxCell id="AHMVMSQBP_ybUsYlfkce-57" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Authentifier" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#3399FF;gradientColor=#CCE5FF;" parent="AHMVMSQBP_ybUsYlfkce-75" vertex="1">
           <mxGeometry x="416" y="239" width="145" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="AHMVMSQBP_ybUsYlfkce-40" value="&lt;div&gt;Modifier les informations personnelles&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#3399FF;gradientColor=#CCE5FF;" parent="AHMVMSQBP_ybUsYlfkce-75" vertex="1">
+        <mxCell id="AHMVMSQBP_ybUsYlfkce-40" value="&lt;div&gt;Modifier les&amp;nbsp;&lt;/div&gt;&lt;div&gt;informations personnelles&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#3399FF;gradientColor=#CCE5FF;" parent="AHMVMSQBP_ybUsYlfkce-75" vertex="1">
           <mxGeometry x="146" y="239" width="145" height="51" as="geometry" />
         </mxCell>
         <mxCell id="AHMVMSQBP_ybUsYlfkce-72" value="&lt;i&gt;&amp;lt;&amp;lt;Includes&amp;gt;&amp;gt;&lt;/i&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="AHMVMSQBP_ybUsYlfkce-75" source="AHMVMSQBP_ybUsYlfkce-40" target="AHMVMSQBP_ybUsYlfkce-57" edge="1">
@@ -24,7 +24,7 @@
             <mxPoint x="699" y="399" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AHMVMSQBP_ybUsYlfkce-28" value="Modifier le mot&amp;nbsp;&lt;div&gt;de passe&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#3399FF;gradientColor=#CCE5FF;" parent="AHMVMSQBP_ybUsYlfkce-75" vertex="1">
+        <mxCell id="AHMVMSQBP_ybUsYlfkce-28" value="Réinitialiser le mot&amp;nbsp;&lt;div&gt;de passe&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#3399FF;gradientColor=#CCE5FF;" parent="AHMVMSQBP_ybUsYlfkce-75" vertex="1">
           <mxGeometry x="146" y="159" width="145" height="51" as="geometry" />
         </mxCell>
         <mxCell id="AHMVMSQBP_ybUsYlfkce-73" value="&lt;i&gt;&amp;lt;&amp;lt;Includes&amp;gt;&amp;gt;&lt;/i&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.352;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.691;exitY=0.069;exitDx=0;exitDy=0;exitPerimeter=0;" parent="AHMVMSQBP_ybUsYlfkce-75" source="AHMVMSQBP_ybUsYlfkce-28" target="AHMVMSQBP_ybUsYlfkce-57" edge="1">
