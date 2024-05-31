@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T08:32:53.063Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="k_extceiTsCcBVsFxc-e" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-31T08:47:08.020Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="Bs34ByCWsy6PgyVuLGC9" version="24.4.8" type="github">
   <diagram name="Page-1" id="bqoknefWxygjBXmzC5J1">
     <mxGraphModel dx="2186" dy="1193" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -45,7 +45,7 @@
             <mxPoint x="33" y="114" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aXAPJrn92n8_OqXVa3Bo-40" value="Valider l&#39;OM&amp;nbsp;&lt;div&gt;des T/I&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#3399FF;gradientColor=#CCE5FF;" parent="1" vertex="1">
+        <mxCell id="aXAPJrn92n8_OqXVa3Bo-40" value="Validation finale" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#3399FF;gradientColor=#CCE5FF;" parent="1" vertex="1">
           <mxGeometry x="48" y="513" width="100" height="36" as="geometry" />
         </mxCell>
         <mxCell id="aXAPJrn92n8_OqXVa3Bo-41" value="&amp;lt;&amp;lt;Extends&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.983;entryY=0.353;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aXAPJrn92n8_OqXVa3Bo-40" target="aXAPJrn92n8_OqXVa3Bo-16" edge="1">
